@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The_Hintzke_Project", "The_Hintzke_Project\The_Hintzke_Project.csproj", "{419C4350-386D-4C30-97B0-D319EF5953BE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The_Hintzke_Project", "The_Hintzke_Project\The_Hintzke_Project.csproj", "{FCCD025C-8757-4C0D-8442-05DACF36CE6A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{419C4350-386D-4C30-97B0-D319EF5953BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{419C4350-386D-4C30-97B0-D319EF5953BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{419C4350-386D-4C30-97B0-D319EF5953BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{419C4350-386D-4C30-97B0-D319EF5953BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCCD025C-8757-4C0D-8442-05DACF36CE6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCCD025C-8757-4C0D-8442-05DACF36CE6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCCD025C-8757-4C0D-8442-05DACF36CE6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCCD025C-8757-4C0D-8442-05DACF36CE6A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
